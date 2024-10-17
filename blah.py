@@ -5,4 +5,6 @@ def f(x):
     return m.sin(x)
 
 def g(x):
+    # This is a comment
+    
     return m.cos(x)
